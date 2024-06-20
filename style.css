@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(253, 191, 255);
+}
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    /* border: 2px solid red; */
+    font-family: arial;
+    font-size: 16px;
+    background-color: rgb(135, 8, 167);
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container div {
+    text-align: center;
+}
+
+input {
+    width: 250px;
+    padding: 5px;
+}
+
+button {
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: rgb(2, 1, 1);
+    border-radius: 10px;
+}
